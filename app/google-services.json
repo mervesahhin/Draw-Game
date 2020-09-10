@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1082201095106",
+    "firebase_url": "https://drawgame2-b0bd9.firebaseio.com",
+    "project_id": "drawgame2-b0bd9",
+    "storage_bucket": "drawgame2-b0bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082201095106:android:fa22b90d9c702aa60f345b",
+        "android_client_info": {
+          "package_name": "com.mervesahin.drawgame2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082201095106-6t09fcp559j5qiu7an7ffqlco4b0dp4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqCsG9b5H5uysVBUNLEbdn83vZUdTHcA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082201095106-6t09fcp559j5qiu7an7ffqlco4b0dp4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
